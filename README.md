@@ -1,1 +1,3 @@
-# gh-actions-demo
+# GitHub actions
+
+This is example github action.
